@@ -1,4 +1,5 @@
 import './user/wheel.scss';
+import '../src/app/globals.css';
 
 export const metadata = {
   title: 'Birthday Wheel',
